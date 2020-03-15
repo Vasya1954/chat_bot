@@ -33,27 +33,19 @@ def main_top(now, a):
     k = []
     r = 0
     nf = open('news.txt', 'r+')
-    print('Открыл файл')
     for line in nf.readlines():
         d = line.replace('\n', '')
         d = d.split(', ')
-
         if int(a[0]) - int(d[0]) < 5:
-            print('Удаляем, строки с датами старше 3 дней')
             if a[0] == d[0]: # Сравниваем текущую дату и даты статей
-                print('Обновляем ссылки на новости за сегодня')
                 for j in c:  # Перебираем эленты списка С
                     k += j
                 for i in a[1:]: # запускаем цикл проверки каждой полученной на текущий момент статьи
                     if i not in d: # Проверяем наличие статьи в текущей строке файлa
-                        #if len(c) > 0: # Если список С не пустой то проверяем наличие полученных ссылок там
-                        print('Метка записи2')
-
                         if i not in k: # Если ссылки нет в каких либо списках то добавляем ее в список по конкретной дате
                             d.append(i)
                             p.append(i)
                             r = 1 # Маркер того что дата новостей уже есть в списке и не нужно создавать новую строку
-                            print('Метка записи1')
             c.append(d)
 
     if r == 0:
@@ -85,12 +77,12 @@ def write_file(spis):
         nf.close()
     return
 
-#def run_bot(url):
-   # while True:
-   # m = get_html(url)
-   # if m:
-     #   print(m)
-   # time.sleep(10)
+'''def run_bot(url):
+    while True:
+        m = get_html(url)
+        if m:
+            print(m)
+        time.sleep(10)
 
 #write_file('https://vc.ru/')
-#print(get_html('https://vc.ru/'))
+run_bot('https://vc.ru/')'''

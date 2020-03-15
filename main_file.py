@@ -20,9 +20,9 @@ def start_message(message):
     while True:
         linkus = Parser.get_html('https://vc.ru/')
         if linkus:
-            for new in Parser.get_html('https://vc.ru/'):
+            for new in linkus:
                 bot.send_message(message.chat.id, new)
         time.sleep(300)
 
 
-bot.polling(none_stop=True, timeout=300)  # запускаем бота
+bot.polling(none_stop=True)  # запускаем бота
