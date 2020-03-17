@@ -82,14 +82,12 @@ def write_file(spis):
         nf.close()
     return
 
-def run_bot(url):
-    while True:
-        tim = time.time()
-        m = get_html(url)
-        if m:
-            print(m)
-        print(time.time() - tim, tim)
-        time.sleep(10)
+#def run_bot(url):
+    #while True:
+        #m = get_html(url)
+        #if m:
+            #print(m)
+        #time.sleep(600)
 
 #write_file('https://vc.ru/')
-run_bot('https://vc.ru/')
+#run_bot('https://vc.ru/')

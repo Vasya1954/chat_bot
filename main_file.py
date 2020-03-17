@@ -22,7 +22,7 @@ def start_message(message):
         if linkus:
             for new in linkus:
                 bot.send_message(message.chat.id, new)
-        time.sleep(300)
+        time.sleep(600)
 
 
 bot.polling(none_stop=True)  # запускаем бота
