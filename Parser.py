@@ -5,6 +5,7 @@ import datetime
 import pickle
 import json
 import time
+import Parser_serch
 
 
 
@@ -24,6 +25,10 @@ def get_html(url):
     for news in news_link:
         file_news.append(news.get('href'))
 
+    file_news += Parser_serch.get_html_serch('https://www.searchengines.ru/')
+    file_news += Parser_serch.get_html_webmya('https://webmaster.yandex.ru/blog/')
+    file_news += Parser_serch.get_html_cossa('https://www.cossa.ru/')
+    file_news += Parser_serch.get_html_roem('https://roem.ru/')
 
     return main_top(now_time, file_news)
 
@@ -77,12 +82,14 @@ def write_file(spis):
         nf.close()
     return
 
-'''def run_bot(url):
+def run_bot(url):
     while True:
+        tim = time.time()
         m = get_html(url)
         if m:
             print(m)
+        print(time.time() - tim, tim)
         time.sleep(10)
 
 #write_file('https://vc.ru/')
-run_bot('https://vc.ru/')'''
+run_bot('https://vc.ru/')
