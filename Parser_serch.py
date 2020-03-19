@@ -47,6 +47,16 @@ def get_html_cossa(url):
     for news in news_link:
         file_news.append('https://www.cossa.ru' + news.get('href'))
 
+    news_link = soup.find_all('a', {'class': 'new__content'})
+
+    for news in news_link:
+        file_news.append('https://www.cossa.ru' + news.get('href'))
+
+    news_link = soup.find_all('div', {'class': 'article__title'})
+
+    for link in news_link:
+        file_news.append('https://www.cossa.ru' + link.find('a').get('href'))
+
     return file_news
 
 def get_html_roem(url):
