@@ -21,8 +21,8 @@ def start_message(message):
     while True:
         Parser.get_html('https://vc.ru/')
         for new in Parser.url_open_main():
-            if new[0] > t_now:
-                bot.send_message(message.chat.id, new[2])
+            if int(new[0]) > t_now:
+                bot.send_message(message.chat.id, new[1] + '\n' + new[2])
         t_now = int(time.time())
         time.sleep(600)
 

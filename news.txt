@@ -1,178 +1,206 @@
-1584656825, Non, https://vc.ru/future/113527
-1584656825, Non, https://vc.ru/office/113493
-1584656826, Говно, https://vc.ru/design/113693-govno
-1584656826, Non, https://vc.ru/finance/113511
-1584656826, Non, https://vc.ru/food/113530
-1584656827, «Распространение: инфекции животных и следующая человеческая пандемия» — главные идеи книги Дэвида Кваммена, https://vc.ru/books/113620-rasprostranenie-infekcii-zhivotnyh-i-sleduyushchaya-chelovecheskaya-pandemiya-glavnye-idei-knigi-devida-kvammena
-1584656827, Non, https://vc.ru/hr/113676
-1584656827, Non, https://vc.ru/life/113596
-1584656827, Non, https://vc.ru/transport/113526
-1584656828, Non, https://vc.ru/tribuna/113577
-1584656828, «Мы недосчитаемся многих. Кризис — время смелых»: письмо предпринимателям о мире и коронавирусе от основателя, https://vc.ru/flood/113638-my-nedoschitaemsya-mnogih-krizis-vremya-smelyh-pismo-predprinimatelyam-o-mire-i-koronaviruse-ot-osnovatelya-tochki
-1584656829, Non, https://vc.ru/legal/113689
-1584656829, Полезное, но неочевидное: SEO-фишки 2020, https://www.searchengines.ru/seo-fishki-2020.html
-1584656829, FAQ: несколько компаний по одному адресу в Google My Business, https://www.searchengines.ru/same-address.html
-1584656830, Женщины в SEO: 8 вдохновляющих историй к 8 марта, https://www.searchengines.ru/zhenshhiny-v-seo.html
-1584656830, Очистка органической выдачи Яндекса от примесей, https://www.searchengines.ru/ochistka-vydachi-yandeksa-ot-primesej.html
-1584656830, Google может начать более детально оценивать скорость загрузки в ранжировании, https://www.searchengines.ru/granular-speed.html
-1584656831, Google добавил новые свойства в документацию по разметке событий, https://www.searchengines.ru/event-markup-2.html
-1584656834, 60% вебмастеров хотели бы, чтобы Google приостановил апдейты на время вспышки COVID-19, https://www.searchengines.ru/covid-updates.html
-1584656835, Яндекс поможет российским школам перейти на дистанционное обучение, https://www.searchengines.ru/yandeks-distantsionnoe-obuchenie.html
-1584656836, Яндекс и Mail.ru Group вошли в альянс по борьбе с коронавирусом, https://www.searchengines.ru/yandeks-i-mail-ru-stop-virus.html
-1584656836, Google практически перестал показывать блоки с ответами справа от результатов поиска, https://www.searchengines.ru/right-sided-snippets.html
-1584656836, ВКонтакте объединила ключевые сервисы суперприложения в новом разделе, https://www.searchengines.ru/vkontakte-new-obzor.html
-1584656836, Правительство РФ попросили разрешить врачам ставить диагноз онлайн, https://www.searchengines.ru/diagnoz-onlajn.html
-1584656838, Facebook запускает информационный центр по коронавирусу в новостной ленте, https://www.searchengines.ru/fb-covid-news.html
-1584656838, Slack представил самый крупный редизайн в истории сервиса, https://www.searchengines.ru/slack-redesign.html
-1584656839, Соцсети Mail.ru предложили новым пользователям подписку на музыку за 1 рубль, https://www.searchengines.ru/muzyka-za-1-rubl.html
-1584656839, AliExpress Россия отменит комиссию для продавцов, https://www.searchengines.ru/aliexpress-otmenit-komissiyu.html
-1584656839, AdSense добавил новую страницу с персонализированной информацией по аккаунту, https://www.searchengines.ru/adsense-page.html
-1584656841, Google приостановил выпуск новых версий Chrome и Chrome OS, https://www.searchengines.ru/chrome-pause.html
-1584656841, Яндекс.Вебмастер тестирует доступ к расширенной статистике по сайту, https://www.searchengines.ru/vebmaster-rasshirennaya-statistika.html
-1584656846, Роскомнадзор предупредил интернет-ресурсы об отвественности за фейки о коронавирусе, https://www.searchengines.ru/rkn-fejki-o-covid.html
-1584656846, В Google Translate появилась функция транскрибации речи, https://www.searchengines.ru/transcribe-launch.html
-1584656846, Глава Роскомнадзора Жаров станет гендиректором «Газпром-Медиа», https://www.searchengines.ru/rkn-gazprom-media.html
-1584656848, Яндекс.Маркет начнет показывать условия доставки безрецептурных лекарств, https://www.searchengines.ru/market-dostavka-lekarstv.html
-1584656851, Полезное, но неочевидное: SEO-фишки 2020, https://www.searchengines.ru/seo-fishki-2020.html
-1584656851, Двукратный рост поискового трафика за 7 месяцев, https://www.searchengines.ru/dvukratnyj-rost-trafika.html
-1584656851, Как поисковые функции в Google влияют на органический CTR, https://www.searchengines.ru/ctr-impact.html
-1584656851, Насколько пользователи доверяют результатам поиска Google, https://www.searchengines.ru/google-trust.html
-1584656851, Сколько зарабатывают западные специалисты по локальному SEO, https://www.searchengines.ru/local-seo-study.html
-1584656852, SEO-тренды, которые обязательно учитывать в 2020 году, https://www.searchengines.ru/seo-trendy.html
-1584656852, BERT — последнее обновление Google. Что делать компаниям?, https://www.searchengines.ru/bert-google.html
-1584656852, Как увеличить продажи путевок на 30% в сезон: кейс санатория «Чистотел», https://www.searchengines.ru/sanatorij-chistotel.html
-1584656852, GeekBrains откроет свою систему онлайн-обучения для вузов, https://www.searchengines.ru/geekbrains-opens-sistem.html
-1584656856, Admitad Academy открывает бесплатный доступ к блокам курса «Практический Affiliate-маркетинг», https://www.searchengines.ru/admitad-academy-dostup-k-kursu.html
-1584656858, Из-за коронавируса конференция МарТех.Недвижимость прошла в формате онлайн-трансляции, https://www.searchengines.ru/marteh-nedvizhimost-post-relise.html
-1584656860, В API Директа появилась возможность управления смарт-баннерами, https://www.searchengines.ru/api-direkta-smart-bannery.html
-1584656860, Яндекс запустил онлайн-карту распространения коронавируса, https://www.searchengines.ru/karta-rasprostraneniya-koronavirusa.html
-1584656863, Яндекс запустил Турбо-сайты в Директе, https://www.searchengines.ru/yandeks-zapustil-turbo-sajty.html
-1584656863, Google отложил онлайн-конференцию Cloud Next из-за коронавируса, https://www.searchengines.ru/next-online-postpone.html
-1584656866, Google: изменения в обработке смешанного контента в Chrome не влияют на ранжирование, https://www.searchengines.ru/mixed-content-search.html
-1584656867, Google: у нас нет API для отчёта по ленте Discover, https://www.searchengines.ru/discover-api.html
-1584656867, В словаре Schema.org появились новые типы разметки, связанные с COVID-19, https://www.searchengines.ru/schema-covid.html
-1584656868, Около 25% владельцев бизнеса не знают, что такое SEO – исследование, https://www.searchengines.ru/unknown-seo.html
-1584656868, WordPress будет автоматически обновлять темы и плагины, https://www.searchengines.ru/wp-auto-updates.html
-1584656868, Google Ads и GMB предупредили об ограничении работы служб поддержки, https://www.searchengines.ru/gads-gmb-support.html
-1584656869, Аналитики ожидают падение рекламных доходов Google и Facebook из-за COVID-19, https://www.searchengines.ru/covid-down.html
-1584656869, Международная организация SEMPO прекратила своё существование, https://www.searchengines.ru/sempo-end.html
-1584656869, Facebook поддержит малый бизнес по всему миру в условиях спада экономики, https://www.searchengines.ru/fb-small-bus.html
-1584656869, ВКонтакте появилась лента с новостями о коронавирусе, https://www.searchengines.ru/vk-covid-19-news.html
-1584656869, ВКонтакте рассказала о росте аудитории и активности в Татарстане, https://www.searchengines.ru/vkontakte-tatarstan.html
-1584656869, Google переведёт все сайты на mobile-first индексацию с сентября, https://www.searchengines.ru/mobile-first-default.html
-1584656869, Яндекс.Маркет назвал самые популярные смартфоны на начало 2020 года, https://www.searchengines.ru/market-smartfony-2020.html
-1584656869, Apple заплатит $500 млн за замедление работы устаревших iPhone, https://www.searchengines.ru/apple-zaplatit-500-mln.html
-1584656870, Google покажет, какие места и компании временно закрыты в связи с COVID-19, https://www.searchengines.ru/temp-closed.html
-1584656870, Yelp призвал Конгресс США расширить расследование в отношении Google, https://www.searchengines.ru/yelp-vs-google.html
-1584656870, GMB опубликовал рекомендации для компаний, затронутых COVID-19, https://www.searchengines.ru/covid-gmb.html
-1584656872, AliExpress Россия начнет блокировать продавцов за спекуляции на защите населения от вируса, https://www.searchengines.ru/aliexpress-rossiya-mask.html
-1584656873, АКАР: интернет продолжает быть драйвером российского рекламного рынка, https://www.searchengines.ru/akar-rynok-reklamy-2019.html
-1584656873, 95% китайских производителей на AliExpress  восстановили работу, https://www.searchengines.ru/aliexpress-russia-95.html
-1584656873, Вебмастер: новый функционал в отзывах на сайт, https://webmaster.yandex.ru/blog/vebmaster-novyy-funktsional-v-otzyvakh-na-sayt
-1584656874, На Услугах появилась возможность подключать продвижение профиля, https://webmaster.yandex.ru/blog/na-uslugakh-poyavilas-vozmozhnost-podklyuchat-prodvizhenie-profilya
-1584656874, Обновленная страница качества: как можно сравнивать сайты, https://webmaster.yandex.ru/blog/obnovlennaya-stranitsa-kachestva-kak-mozhno-sravnivat-sayty
-1584656875, Как улучшить представление своего сайта в поиске?, https://webmaster.yandex.ru/blog/kak-uluchshit-predstavlenie-svoego-sayta-v-poiske
-1584656875, Как ускорить обход страниц при помощи Метрики?, https://webmaster.yandex.ru/blog/kak-uskorit-obkhod-stranits-pri-pomoschi-metriki
-1584656876, Развитие Турбо-страниц для магазинов, новые возможности монетизации и другие обновления Турбо за полгода, https://webmaster.yandex.ru/blog/razvitie-turbo-stranits-dlya-magazinov-novye-vozmozhnosti-monetizatsii-i-drugie-obnovleniya-turbo-za-polgoda
-1584656876, Тест: узнайте, какой вы Турбо-кот, https://webmaster.yandex.ru/blog/test-uznayte-kakoy-vy-turbo-kot
-1584656877, Комментарии пользователей Яндекса теперь на Турбо-страницах, https://webmaster.yandex.ru/blog/kommentarii-polzovateley-yandeksa-teper-na-turbo-stranitsakh
-1584656877, В Яндекс.Играх появились игры со встроенными покупками, https://webmaster.yandex.ru/blog/v-yandeks-igrakh-poyavilis-igry-so-vstroennymi-pokupkami
-1584656877, Закрытое тестирование новой главной страницы Турбо: набираем участников, https://webmaster.yandex.ru/blog/zakrytoe-testirovanie-novoy-glavnoy-stranitsy-turbo-nabiraem-uchastnikov
-1584656878, Теперь архив внутренних ссылок можно скачать, https://webmaster.yandex.ru/blog/teper-arkhiv-vnutrennikh-ssylok-mozhno-skachat
-1584656878, Премия Алисы: лучшие навыки за ноябрь, https://webmaster.yandex.ru/blog/premiya-alisy-luchshie-navyki-za-noyabr
-1584656879, Девятая Вебмастерская: презентации докладчиков и запись трансляции, https://webmaster.yandex.ru/blog/devyataya-vebmasterskaya-prezentatsii-dokladchikov-i-zapis-translyatsii
-1584656879, Теперь в Турбо-версии вашего магазина доступны списки товаров — ваш магазин станет быстрее и конверсионнее!, https://webmaster.yandex.ru/blog/teper-v-turbo-versii-vashego-magazina-dostupny-spiski-tovarov-vash-magazin-stanet-bystree-i-konversionnee
-1584656879, Всё о ранжировании Турбо-страниц из первых уст, https://webmaster.yandex.ru/blog/vse-o-ranzhirovanii-turbo-stranits-iz-pervykh-ust
-1584656880, Быстро и недорого проверить гипотезу или оценить спрос: упрощенный конструктор Яндекс.Взгляда, https://webmaster.yandex.ru/blog/bystro-i-nedorogo-proverit-gipotezu-ili-otsenit-spros-uproschennyy-konstruktor-yandeks-vzglyada
-1584656880, Продвижение контента в Яндекс.Директе — новый тип кампаний выходит в открытую бету, https://webmaster.yandex.ru/blog/prodvizhenie-kontenta-v-yandeks-direkte-novyy-tip-kampaniy-vykhodit-v-otkrytuyu-betu
-1584656880, Общайтесь с пользователями по-новому — «Отзывы» стали публичными, https://webmaster.yandex.ru/blog/obschaytes-s-polzovatelyami-po-novomu-otzyvy-stali-publichnymi
-1584656881, API Вебмастера обновлён до версии 4.1, https://webmaster.yandex.ru/blog/5dd7afb9f0274d002f3210cd
-1584656881, Non, https://www.cossa.ru/trends/260367/
-1584656882, Как визуализировать данные с помощью Yandex DataLens: обзор инструмента и пример использования, https://www.cossa.ru/trends/260342/
-1584656882, Как грамотная аналитика помогла снизить в два раза цену лида для мебельной фабрики: кейс eLama, https://www.cossa.ru/cases/260305/
-1584656882, Пробуем продвигаться контентом через Яндекс.Коллекции: три микрокейса, https://www.cossa.ru/cases/260263/
-1584656882, Азбука продвижения фитнес-центра в онлайне от А до Я, https://www.cossa.ru/trends/260235/
-1584656882, Non, https://www.cossa.ru/trends/260233/
-1584656883, Антитоксичный Джедайст #48, https://www.cossa.ru/trends/260208/
-1584656883, Ланч-тайм 254: краткий перевод свежих статей о digital, https://www.cossa.ru/trends/259984/
-1584656883, DIЧ.LIVE — дайджест о веб-дизайне, который идёт в прямом эфире, https://www.cossa.ru/video/259992/
-1584656884, Маркетинг выступлений. Как стать убедительным и успешным спикером, https://www.cossa.ru/trends/259977/
-1584656884, Как говорить с клиентами, если они знают больше, чем вы, https://www.cossa.ru/cases/259929/
-1584656884, Как мы запустили Яндекс.Дзен в агентстве, https://www.cossa.ru/cases/259918/
-1584656884, Как сделать 20 млн выручки кухням на заказ на заявках из соцсетей, https://www.cossa.ru/cases/259906/
-1584656884, netPrint: как блогеры помогают нам развивать и продвигать бизнес в Instagram, https://www.cossa.ru/trends/259838/
-1584656884, Незнающие всезнайки: как интернет-сервисы сделали вид, что они ничего не знают о перемещении своих пользователей, https://roem.ru/19-03-2020/281590/helpp/
-1584656885, Wildberries «своевременно» вышли на рынок авиабилетов, а «Победа» заявила о стерилизации самолётов, https://roem.ru/18-03-2020/281584/wildberries-perfect-timing/
-1584656885, Communigate Pro может после смерти Бутенко оказаться американским и быть исключен из реестра российского ПО, https://roem.ru/18-03-2020/281573/communigate-pro-reestr/
-1584656886, Путин потребовал обеспечить россиянам доступ к отечественным фильмам и разрешил дистанционную продажу лекарств, https://roem.ru/17-03-2020/281562/lekarstva-v-seti/
-1584656888, Яндекс успел разработать платформу полностью дистанционного школьного обучения к марту 2020, https://roem.ru/17-03-2020/281560/yandeks-uspel-razrabotat-platformu-polnostyu-distancionnogo-shkolnogo-obucheniya-k-martu-2020/
-1584656889, Модераторы TikTok понижают в рекомендациях некрасивых и бедных, https://roem.ru/17-03-2020/281557/tiktok-no-ugly/
-1584656890, Яндекс снимает сериалы по 25 млн за серию про сильных женщин, хороших политиков и telegram-расследования, https://roem.ru/13-03-2020/281529/yandeks-serial/
-1584656891, Почта России тестирует доставку посылок по номеру телефона — без адреса и ФИО, https://roem.ru/12-03-2020/281520/pochta-rossii-noaddress/
-1584656892, Создатель платформы для торговли крадеными данными с трудом вырвался в США, где и был арестован ФБР, https://roem.ru/12-03-2020/281511/zhuk-olen/
-1584656895, Николай Евдокимов игнорирует требования SEC выплатить $16 млн, команда Дурова нашла против SEC  легальный прецедент, https://roem.ru/11-03-2020/281507/a-40-tak-mozhno-bylo/
-1584656897, Spotify третий раз попробует запуститься в России, но заранее экономит на офисе, https://roem.ru/10-03-2020/281505/spotifai-nu-davai/
-1584656900, «Мастерхост» договорился с дата-центром, омбудсмен предложил защитить клиентов от разборок хостингов, https://roem.ru/06-03-2020/281494/masterhost-jivi/
-1584656901, Google частично зацензурировал коронавирус в Play Store, https://roem.ru/05-03-2020/281484/google-antivirus/
-1584656901, ВКонтакте автоматически расшифрует голосовые сообщения и сделает доступными для поиска, https://roem.ru/04-03-2020/281455/fck-voice/
-1584656903, Яндекс ампутировал «Ауру»: ИИ-соцсеть ушла на отдельное юрлицо и собирается стать частично платной, https://roem.ru/03-03-2020/281440/aura-top/
-1584656904, РИФ+КИБ перенесли из апреля на сентябрь и частично — из «Далей» в интернет, https://roem.ru/13-03-2020/281538/rif-kib-perenesli-iz-aprelya-na-sentyabr-i-chastichno-iz-dalej-v-internet/
-1584656905, О проблемах пространственно-временного континуума в России на примере торговли обувью, https://roem.ru/04-03-2020/281446/prostranstvo-i-vremya/
-1584656905, Иван Макаров, Юлия Сапронова: Как журналистам РБК прививали любовь к диджиталу, https://roem.ru/03-02-2020/280965/makarov-rbc/
-1584656906, Вячеслав Макаров (Wargaming) создаст партию для айтишников в кооперации с сотрудником Яндекс.Денег, бывшим продюсером ЖЖ и olegart’ом, https://roem.ru/10-01-2020/281226/blockchain-party/
-1584656907, У банка Натальи Касперской отобрали лицензию, https://roem.ru/10-01-2020/281223/necklace-vsyo/
-1584656907, ВКонтакте зарезал трафик на Яндекс.Музыку, https://roem.ru/12-11-2019/280773/vk-vs-ya-music/
-1584656908, Путин предлагал использовать «Большую российскую энциклопедию» вместо Википедии в ответ на вопрос про её использование школьниками, https://roem.ru/06-11-2019/280709/wiki-putin/
-1584656908, Сторонние сервисы, которые Apple предустанавливала на iOS: YouTube, Яндекс, Карты, Twitter, Facebook, FeliCa, Baidu, https://roem.ru/06-11-2019/280694/ios-third-apps-preinstalled/
-1584656908, Как сотрудники «Почты» хакнули алгоритм оценки качества работы отделений через приложение, https://roem.ru/24-10-2019/280422/pochta-wins/
-1584656909, Игорь Ашманов захотел поговорить о сегодняшней фазе уничтожения Рунета ☦, https://roem.ru/24-10-2019/280382/ashmanov-runet-gibnet-silno/
-1584656909, Forbes US рассказал про ажиотажный спрос на российские акции в Америке, https://roem.ru/23-10-2019/280335/forbes-us-russia-rocks/
-1584656910, Банковские карты Тинькова не оказались лучшими по формальным критериям, https://roem.ru/23-10-2019/280276/frank-rg-pishet/
-1584656910, Тиньков поприветствовал неудачи Gram/Ton Дуровых, WeWork и Uber: «пирамидам Понци конец!», https://roem.ru/17-10-2019/280041/smoothie-konets/
-1584656910, Незнающие всезнайки: как интернет-сервисы сделали вид, что они ничего не знают о перемещении своих пользователей, https://roem.ru/19-03-2020/281590/helpp/
-1584656910, Создатель платформы для торговли крадеными данными с трудом вырвался в США, где и был арестован ФБР, https://roem.ru/12-03-2020/281511/zhuk-olen/
-1584684435, Non, https://vc.ru/offline/113595
-1584684435, Non, https://vc.ru/marketing/113696
-1584684435, Non, https://vc.ru/hr/113697
-1584684435, Полезное, но неочевидное: SEO-фишки 2020, https://www.searchengines.ru/seo-fishki-2020.html
-1584684436, 60% вебмастеров хотели бы, чтобы Google приостановил апдейты на время вспышки COVID-19, https://www.searchengines.ru/covid-updates.html
-1584684436, Полезное, но неочевидное: SEO-фишки 2020, https://www.searchengines.ru/seo-fishki-2020.html
-1584684436, SEO-тренды, которые обязательно учитывать в 2020 году, https://www.searchengines.ru/seo-trendy.html
-1584684436, В словаре Schema.org появились новые типы разметки, связанные с COVID-19, https://www.searchengines.ru/schema-covid.html
-1584684436, Около 25% владельцев бизнеса не знают, что такое SEO – исследование, https://www.searchengines.ru/unknown-seo.html
-1584684436, Google покажет, какие места и компании временно закрыты в связи с COVID-19, https://www.searchengines.ru/temp-closed.html
-1584684436, GMB опубликовал рекомендации для компаний, затронутых COVID-19, https://www.searchengines.ru/covid-gmb.html
-1584684436, Развитие Турбо-страниц для магазинов, новые возможности монетизации и другие обновления Турбо за полгода, https://webmaster.yandex.ru/blog/razvitie-turbo-stranits-dlya-magazinov-novye-vozmozhnosti-monetizatsii-i-drugie-obnovleniya-turbo-za-polgoda
-1584684437, Тест: узнайте, какой вы Турбо-кот, https://webmaster.yandex.ru/blog/test-uznayte-kakoy-vy-turbo-kot
-1584684437, DIЧ.LIVE — дайджест о веб-дизайне, который идёт в прямом эфире, https://www.cossa.ru/video/259992/
-1584684438, Как говорить с клиентами, если они знают больше, чем вы, https://www.cossa.ru/cases/259929/
-1584684438, GeekBrains откроет свою систему онлайн-обучения для вузов, https://www.cossa.ru/news/260358/
-1584684438, Восемь советов от Google, как организовать работу команды из дома, https://www.cossa.ru/news/260353/
-1584684442, ВКонтакте полностью изменила один из ключевых экранов приложения — вкладку «Обзор», https://www.cossa.ru/news/260348/
-1584684442, Как пройти сертификацию RUWARD по SEO: опыт WebCanape, https://www.cossa.ru/news/260331/
-1584684443, В сервисе проверки лидеров мнений trendHERO запустили поиск блогеров, https://www.cossa.ru/news/260314/
-1584684443, RUWARD проведёт 12 бесплатных сертификаций digital-агентств в 2020 году, https://www.cossa.ru/news/260300/
-1584684443, Стажировка, iPhone и AR-ачивки: МегаФон запустил образовательный спецпроект для студентов, https://www.cossa.ru/news/260242/
-1584684444, Не отпускают и не идут: как российские компании переходят на удалённую работу, https://www.cossa.ru/news/260271/
-1584684445, Видеореклама на YouTube: что это, зачем и кому нужна, https://www.cossa.ru/blogs/elama/260351/
-1584684445, 10 советов, как заставить блог приносить больше прибыли вашему eCommerce, https://www.cossa.ru/blogs/artisan/260239/
-1584684445, SEO-продвижение В2В сайтов, https://www.cossa.ru/blogs/aevrika/258842/
-1584684446, Правила жизни Devino Telecom, https://www.cossa.ru/blogs/devino_telecom/260089/
-1584684446, Зачем онлайн-бизнесу нужен блог? Результаты исследований и наш личный опыт, https://www.cossa.ru/blogs/artisan/260061/
-1584684446, Как без проблем пройти модерацию объявлений в Яндекс.Директе и Google Ads, https://www.cossa.ru/blogs/imarketing/260041/
-1584684447, Контекст для доставки суши: как мы добились заказа за 4 рубля в перегретой тематике, https://www.cossa.ru/cases/259402/
-1584684447, Как говорить с клиентами, если они знают больше, чем вы, https://www.cossa.ru/cases/259929/
-1584684447, Как заработать на успехе фильма «Паразиты» и популярности K-POP: перспективы рынка K-Beauty в России, https://www.cossa.ru/trends/259119/
-1584684447, Незнающие всезнайки: как интернет-сервисы сделали вид, что они ничего не знают о перемещении своих пользователей, https://roem.ru/19-03-2020/281590/helpp/
-1584684447, Wildberries «своевременно» вышли на рынок авиабилетов, а «Победа» заявила о стерилизации самолётов, https://roem.ru/18-03-2020/281584/wildberries-perfect-timing/
-1584684448, Яндекс снимает сериалы по 25 млн за серию про сильных женщин, хороших политиков и telegram-расследования, https://roem.ru/13-03-2020/281529/yandeks-serial/
-1584684448, Создатель платформы для торговли крадеными данными с трудом вырвался в США, где и был арестован ФБР, https://roem.ru/12-03-2020/281511/zhuk-olen/
-1584684448, Николай Евдокимов игнорирует требования SEC выплатить $16 млн, команда Дурова нашла против SEC  легальный прецедент, https://roem.ru/11-03-2020/281507/a-40-tak-mozhno-bylo/
-1584684449, Spotify третий раз попробует запуститься в России, но заранее экономит на офисе, https://roem.ru/10-03-2020/281505/spotifai-nu-davai/
-1584684449, «Мастерхост» договорился с дата-центром, омбудсмен предложил защитить клиентов от разборок хостингов, https://roem.ru/06-03-2020/281494/masterhost-jivi/
-1584684449, Иван Макаров, Юлия Сапронова: Как журналистам РБК прививали любовь к диджиталу, https://roem.ru/03-02-2020/280965/makarov-rbc/
-1584684450, Вячеслав Макаров (Wargaming) создаст партию для айтишников в кооперации с сотрудником Яндекс.Денег, бывшим продюсером ЖЖ и olegart’ом, https://roem.ru/10-01-2020/281226/blockchain-party/
-1584684450, Сторонние сервисы, которые Apple предустанавливала на iOS: YouTube, Яндекс, Карты, Twitter, Facebook, FeliCa, Baidu, https://roem.ru/06-11-2019/280694/ios-third-apps-preinstalled/
-1584684451, Тиньков поприветствовал неудачи Gram/Ton Дуровых, WeWork и Uber: «пирамидам Понци конец!», https://roem.ru/17-10-2019/280041/smoothie-konets/
-1584684451, Незнающие всезнайки: как интернет-сервисы сделали вид, что они ничего не знают о перемещении своих пользователей, https://roem.ru/19-03-2020/281590/helpp/
-1584684451, Яндекс снимает сериалы по 25 млн за серию про сильных женщин, хороших политиков и telegram-расследования, https://roem.ru/13-03-2020/281529/yandeks-serial/
+1584656825; Non; https://vc.ru/future/113527
+1584735565; Десять простых правил, которые помогают мне работать из дома уже 20 лет; https://vc.ru/office/113954-desyat-prostyh-pravil-kotorye-pomogayut-mne-rabotat-iz-doma-uzhe-20-let
+1584735566; Bosco шьёт маски, «Яндекс» финансово поддержит курьеров, каталог бесплатных курсов: главное о бизнесе и Covid-19 за; https://vc.ru/flood/113680-bosco-shet-maski-yandeks-finansovo-podderzhit-kurerov-katalog-besplatnyh-kursov-glavnoe-o-biznese-i-covid-19-za-den
+1584735566; Проект беспилотных грузовиков Starsky Robotics с инвестициями фонда Дмитрия Гришина закрылся: что произошло и; https://vc.ru/transport/113897-proekt-bespilotnyh-gruzovikov-starsky-robotics-s-investiciyami-fonda-dmitriya-grishina-zakrylsya-chto-proizoshlo-i-pochemu
+1584735566; ЦБ обязал банки отменить комиссии с переводов меньше 100 тысяч рублей в месяц по номеру; https://vc.ru/finance/113877-cb-obyazal-banki-otmenit-komissii-s-perevodov-menshe-100-tysyach-rubley-v-mesyac-po-nomeru-telefona
+1584735567; Первая «смерть» проекта от коронавируса в Перми; https://vc.ru/marketing/113912-pervaya-smert-proekta-ot-koronavirusa-v-permi
+1584735567; Разработчик системы менеджмента пациентов Ondoc привлёк $1 млн инвестиций от фармкомпании; https://vc.ru/services/113997-razrabotchik-sistemy-menedzhmenta-pacientov-ondoc-privlek-1-mln-investiciy-ot-farmkompanii-citomed
+1584735567; Lego, Walkman, калькулятор Braun и другие продукты с лучшим дизайном современности по версии; https://vc.ru/design/113447-lego-walkman-kalkulyator-braun-i-drugie-produkty-s-luchshim-dizaynom-sovremennosti-po-versii-fortune
+1584735568; Концепт: пульт автосигнализации для «запорожца»; https://vc.ru/design/113789-koncept-pult-avtosignalizacii-dlya-zaporozhca
+1584735568; Что не так в инструкциях по удаленной работе: вы забыли, что дома есть дети; https://vc.ru/office/113935-chto-ne-tak-v-instrukciyah-po-udalennoy-rabote-vy-zabyli-chto-doma-est-deti
+1584735568; Калькулятор запасов на время пандемии “How Much Grecha?”; https://vc.ru/links/113929-kalkulyator-zapasov-na-vremya-pandemii-how-much-grecha
+1584735568; Виртуальный бар для тех, кто сидит дома; https://vc.ru/flood/113751-virtualnyy-bar-dlya-teh-kto-sidit-doma
+1584735569; Робохроники ИИ: алгоритмы как спасение от коронавируса, обучающие искусственный интеллект заключенные и чип-«нюхач»; https://vc.ru/ml/113801-robohroniki-ii-algoritmy-kak-spasenie-ot-koronavirusa-obuchayushchie-iskusstvennyy-intellekt-zaklyuchennye-i-chip-nyuhach
+1584735569; Полезное, но неочевидное: SEO-фишки 2020; https://www.searchengines.ru/seo-fishki-2020.html
+1584735569; FAQ: несколько компаний по одному адресу в Google My Business; https://www.searchengines.ru/same-address.html
+1584735569; Женщины в SEO: 8 вдохновляющих историй к 8 марта; https://www.searchengines.ru/zhenshhiny-v-seo.html
+1584735570; Очистка органической выдачи Яндекса от примесей; https://www.searchengines.ru/ochistka-vydachi-yandeksa-ot-primesej.html
+1584735570; Яндекс.Эфир открывает платформу для создателей видеоконтента; https://www.searchengines.ru/yandeks-efir-videokontent.html
+1584735570; Google может начать более детально оценивать скорость загрузки в ранжировании; https://www.searchengines.ru/granular-speed.html
+1584735570; Google добавил новые свойства в документацию по разметке событий; https://www.searchengines.ru/event-markup-2.html
+1584735572; 60% вебмастеров хотели бы, чтобы Google приостановил апдейты на время вспышки COVID-19; https://www.searchengines.ru/covid-updates.html
+1584735572; ВКонтакте создала единый центр информации по коронавирусу; https://www.searchengines.ru/vkontakte-infotsentr-covid-19.html
+1584735572; eMarketer понизил прогноз по мировым расходам на рекламу на 2020 год; https://www.searchengines.ru/forecast-lowered.html
+1584735574; Яндекс.Деньги поддержат кэшбэком тех, кто работает из дома; https://www.searchengines.ru/yandeks-dengi-keshbek.html
+1584735574; Facebook запустил информресурс для бизнеса с советами на период эпидемии; https://www.searchengines.ru/fb-covid-business.html
+1584735575; Минкомсвязь отложила учения по обеспечению автономности рунета; https://www.searchengines.ru/minkomsvyaz-otlozhila-ucheniya.html
+1584735575; Google Ads упростил подачу апелляций по отклонённым объявлениям; https://www.searchengines.ru/gads-appeal.html
+1584735576; Яндекс открыл галерею нейросетевого искусства; https://www.searchengines.ru/yandeks-nejro-galereya.html
+1584735577; Топ-5 IT-компаний за месяц потеряли более $1 трлн рыночной стоимости; https://www.searchengines.ru/top-five-down.html
+1584735579; Facebook запускает редизайн веб-версии соцсети для большинства пользователей; https://www.searchengines.ru/fb-most.html
+1584735581; Facebook запретил рекламу большего числа товаров в ответ на вспышку COVID-19; https://www.searchengines.ru/fb-ads-covid.html
+1584735581; Яндекс и Mail.ru Group вошли в альянс по борьбе с коронавирусом; https://www.searchengines.ru/yandeks-i-mail-ru-stop-virus.html
+1584735581; Google практически перестал показывать блоки с ответами справа от результатов поиска; https://www.searchengines.ru/right-sided-snippets.html
+1584735583; ВКонтакте объединила ключевые сервисы суперприложения в новом разделе; https://www.searchengines.ru/vkontakte-new-obzor.html
+1584735584; Правительство РФ попросили разрешить врачам ставить диагноз онлайн; https://www.searchengines.ru/diagnoz-onlajn.html
+1584735586; Facebook запускает информационный центр по коронавирусу в новостной ленте; https://www.searchengines.ru/fb-covid-news.html
+1584735587; Двукратный рост поискового трафика за 7 месяцев; https://www.searchengines.ru/dvukratnyj-rost-trafika.html
+1584735589; Admitad: Telegram-каналы и блоги стали зарабатывать в разы больше; https://www.searchengines.ru/admitad-telegram-kanaly.html
+1584735589; Как поисковые функции в Google влияют на органический CTR; https://www.searchengines.ru/ctr-impact.html
+1584735589; Насколько пользователи доверяют результатам поиска Google; https://www.searchengines.ru/google-trust.html
+1584735589; SEO-тренды, которые обязательно учитывать в 2020 году; https://www.searchengines.ru/seo-trendy.html
+1584735590; BERT — последнее обновление Google. Что делать компаниям?; https://www.searchengines.ru/bert-google.html
+1584735591; Как увеличить продажи путевок на 30% в сезон: кейс санатория «Чистотел»; https://www.searchengines.ru/sanatorij-chistotel.html
+1584735591; GeekBrains откроет свою систему онлайн-обучения для вузов; https://www.searchengines.ru/geekbrains-opens-sistem.html
+1584735593; Admitad Academy открывает бесплатный доступ к блокам курса «Практический Affiliate-маркетинг»; https://www.searchengines.ru/admitad-academy-dostup-k-kursu.html
+1584735594; Из-за коронавируса конференция МарТех.Недвижимость прошла в формате онлайн-трансляции; https://www.searchengines.ru/marteh-nedvizhimost-post-relise.html
+1584735594; Яндекс.Вебмастер тестирует доступ к расширенной статистике по сайту; https://www.searchengines.ru/vebmaster-rasshirennaya-statistika.html
+1584735597; Яндекс.Маркет начнет показывать условия доставки безрецептурных лекарств; https://www.searchengines.ru/market-dostavka-lekarstv.html
+1584735600; В API Директа появилась возможность управления смарт-баннерами; https://www.searchengines.ru/api-direkta-smart-bannery.html
+1584735600; AdSense добавил новую страницу с персонализированной информацией по аккаунту; https://www.searchengines.ru/adsense-page.html
+1584735600; Google приостановил выпуск новых версий Chrome и Chrome OS; https://www.searchengines.ru/chrome-pause.html
+1584735600; В Google Translate появилась функция транскрибации речи; https://www.searchengines.ru/transcribe-launch.html
+1584735604; Google: изменения в обработке смешанного контента в Chrome не влияют на ранжирование; https://www.searchengines.ru/mixed-content-search.html
+1584735606; В словаре Schema.org появились новые типы разметки, связанные с COVID-19; https://www.searchengines.ru/schema-covid.html
+1584735606; Около 25% владельцев бизнеса не знают, что такое SEO – исследование; https://www.searchengines.ru/unknown-seo.html
+1584735606; Google Ads и GMB предупредили об ограничении работы служб поддержки; https://www.searchengines.ru/gads-gmb-support.html
+1584735606; Аналитики ожидают падение рекламных доходов Google и Facebook из-за COVID-19; https://www.searchengines.ru/covid-down.html
+1584735607; Международная организация SEMPO прекратила своё существование; https://www.searchengines.ru/sempo-end.html
+1584735607; Соцсети Mail.ru предложили новым пользователям подписку на музыку за 1 рубль; https://www.searchengines.ru/muzyka-za-1-rubl.html
+1584735608; Facebook поддержит малый бизнес по всему миру в условиях спада экономики; https://www.searchengines.ru/fb-small-bus.html
+1584735610; ВКонтакте появилась лента с новостями о коронавирусе; https://www.searchengines.ru/vk-covid-19-news.html
+1584735612; Google переведёт все сайты на mobile-first индексацию с сентября; https://www.searchengines.ru/mobile-first-default.html
+1584735612; Яндекс.Маркет назвал самые популярные смартфоны на начало 2020 года; https://www.searchengines.ru/market-smartfony-2020.html
+1584735613; Apple заплатит $500 млн за замедление работы устаревших iPhone; https://www.searchengines.ru/apple-zaplatit-500-mln.html
+1584735615; Google покажет, какие места и компании временно закрыты в связи с COVID-19; https://www.searchengines.ru/temp-closed.html
+1584735615; Yelp призвал Конгресс США расширить расследование в отношении Google; https://www.searchengines.ru/yelp-vs-google.html
+1584735616; GMB опубликовал рекомендации для компаний, затронутых COVID-19; https://www.searchengines.ru/covid-gmb.html
+1584735616; AliExpress Россия отменит комиссию для продавцов; https://www.searchengines.ru/aliexpress-otmenit-komissiyu.html
+1584735617; AliExpress Россия начнет блокировать продавцов за спекуляции на защите населения от вируса; https://www.searchengines.ru/aliexpress-rossiya-mask.html
+1584735618; АКАР: интернет продолжает быть драйвером российского рекламного рынка; https://www.searchengines.ru/akar-rynok-reklamy-2019.html
+1584735621; Вебмастер: новый функционал в отзывах на сайт; https://webmaster.yandex.ru/blog/vebmaster-novyy-funktsional-v-otzyvakh-na-sayt
+1584735621; На Услугах появилась возможность подключать продвижение профиля; https://webmaster.yandex.ru/blog/na-uslugakh-poyavilas-vozmozhnost-podklyuchat-prodvizhenie-profilya
+1584735622; Обновленная страница качества: как можно сравнивать сайты; https://webmaster.yandex.ru/blog/obnovlennaya-stranitsa-kachestva-kak-mozhno-sravnivat-sayty
+1584735622; Как улучшить представление своего сайта в поиске?; https://webmaster.yandex.ru/blog/kak-uluchshit-predstavlenie-svoego-sayta-v-poiske
+1584735623; Как ускорить обход страниц при помощи Метрики?; https://webmaster.yandex.ru/blog/kak-uskorit-obkhod-stranits-pri-pomoschi-metriki
+1584735623; Развитие Турбо-страниц для магазинов, новые возможности монетизации и другие обновления Турбо за полгода; https://webmaster.yandex.ru/blog/razvitie-turbo-stranits-dlya-magazinov-novye-vozmozhnosti-monetizatsii-i-drugie-obnovleniya-turbo-za-polgoda
+1584735624; Тест: узнайте, какой вы Турбо-кот; https://webmaster.yandex.ru/blog/test-uznayte-kakoy-vy-turbo-kot
+1584735624; Комментарии пользователей Яндекса теперь на Турбо-страницах; https://webmaster.yandex.ru/blog/kommentarii-polzovateley-yandeksa-teper-na-turbo-stranitsakh
+1584735625; В Яндекс.Играх появились игры со встроенными покупками; https://webmaster.yandex.ru/blog/v-yandeks-igrakh-poyavilis-igry-so-vstroennymi-pokupkami
+1584735625; Закрытое тестирование новой главной страницы Турбо: набираем участников; https://webmaster.yandex.ru/blog/zakrytoe-testirovanie-novoy-glavnoy-stranitsy-turbo-nabiraem-uchastnikov
+1584735626; Теперь архив внутренних ссылок можно скачать; https://webmaster.yandex.ru/blog/teper-arkhiv-vnutrennikh-ssylok-mozhno-skachat
+1584735626; Премия Алисы: лучшие навыки за ноябрь; https://webmaster.yandex.ru/blog/premiya-alisy-luchshie-navyki-za-noyabr
+1584735627; Девятая Вебмастерская: презентации докладчиков и запись трансляции; https://webmaster.yandex.ru/blog/devyataya-vebmasterskaya-prezentatsii-dokladchikov-i-zapis-translyatsii
+1584735627; Теперь в Турбо-версии вашего магазина доступны списки товаров — ваш магазин станет быстрее и конверсионнее!; https://webmaster.yandex.ru/blog/teper-v-turbo-versii-vashego-magazina-dostupny-spiski-tovarov-vash-magazin-stanet-bystree-i-konversionnee
+1584735627; Всё о ранжировании Турбо-страниц из первых уст; https://webmaster.yandex.ru/blog/vse-o-ranzhirovanii-turbo-stranits-iz-pervykh-ust
+1584735628; Быстро и недорого проверить гипотезу или оценить спрос: упрощенный конструктор Яндекс.Взгляда; https://webmaster.yandex.ru/blog/bystro-i-nedorogo-proverit-gipotezu-ili-otsenit-spros-uproschennyy-konstruktor-yandeks-vzglyada
+1584735628; Продвижение контента в Яндекс.Директе — новый тип кампаний выходит в открытую бету; https://webmaster.yandex.ru/blog/prodvizhenie-kontenta-v-yandeks-direkte-novyy-tip-kampaniy-vykhodit-v-otkrytuyu-betu
+1584735629; Общайтесь с пользователями по-новому — «Отзывы» стали публичными; https://webmaster.yandex.ru/blog/obschaytes-s-polzovatelyami-po-novomu-otzyvy-stali-publichnymi
+1584735630; API Вебмастера обновлён до версии 4.1; https://webmaster.yandex.ru/blog/5dd7afb9f0274d002f3210cd
+1584735630; Ланч-тайм 255: краткий перевод свежих статей о digital; https://www.cossa.ru/trends/260392/
+1584735631; Как визуализировать данные с помощью Yandex DataLens: обзор инструмента и пример использования; https://www.cossa.ru/trends/260342/
+1584735631; Как грамотная аналитика помогла снизить в два раза цену лида для мебельной фабрики: кейс eLama; https://www.cossa.ru/cases/260305/
+1584735631; Пробуем продвигаться контентом через Яндекс.Коллекции: три микрокейса; https://www.cossa.ru/cases/260263/
+1584735631; Азбука продвижения фитнес-центра в онлайне от А до Я; https://www.cossa.ru/trends/260235/
+1584735632; Антитоксичный Джедайст #48; https://www.cossa.ru/trends/260208/
+1584735632; Ланч-тайм 254: краткий перевод свежих статей о digital; https://www.cossa.ru/trends/259984/
+1584735632; DIЧ.LIVE — дайджест о веб-дизайне, который идёт в прямом эфире; https://www.cossa.ru/video/259992/
+1584735632; Маркетинг выступлений. Как стать убедительным и успешным спикером; https://www.cossa.ru/trends/259977/
+1584735633; Как говорить с клиентами, если они знают больше, чем вы; https://www.cossa.ru/cases/259929/
+1584735633; Как мы запустили Яндекс.Дзен в агентстве; https://www.cossa.ru/cases/259918/
+1584735633; Как сделать 20 млн выручки кухням на заказ на заявках из соцсетей; https://www.cossa.ru/cases/259906/
+1584735633; Brand Analytics запустил новый мониторинг СМИ на основе искусственного интеллекта; https://www.cossa.ru/news/260404/
+1584735634; Яндекс.Эфир открыл платформу для размещения профессионального видеоконтента; https://www.cossa.ru/news/260388/
+1584735635; Новые стандарты: ВШЭ и Segmento запускают первую в России дискуссионную площадку по O2O-маркетингу; https://www.cossa.ru/news/260380/
+1584735636; GeekBrains откроет свою систему онлайн-обучения для вузов; https://www.cossa.ru/news/260358/
+1584735636; Восемь советов от Google, как организовать работу команды из дома; https://www.cossa.ru/news/260353/
+1584735637; ВКонтакте полностью изменила один из ключевых экранов приложения — вкладку «Обзор»; https://www.cossa.ru/news/260348/
+1584735638; Как пройти сертификацию RUWARD по SEO: опыт WebCanape; https://www.cossa.ru/news/260331/
+1584735638; В сервисе проверки лидеров мнений trendHERO запустили поиск блогеров; https://www.cossa.ru/news/260314/
+1584735638; Как попасть в топ локальной выдачи Яндекса в 2020 году; https://www.cossa.ru/blogs/imarketing/260289/
+1584735638; Рейтинг вовлеченности подписчиков email-рассылок: зачем он нужен и как его считать; https://www.cossa.ru/blogs/DashaMail/260313/
+1584735639; SEO продвижение интернет-магазина мебели; https://www.cossa.ru/blogs/aevrika/258843/
+1584735639; Видеореклама на YouTube: что это, зачем и кому нужна; https://www.cossa.ru/blogs/elama/260351/
+1584735639; 10 советов, как заставить блог приносить больше прибыли вашему eCommerce; https://www.cossa.ru/blogs/artisan/260239/
+1584735640; SEO-продвижение В2В сайтов; https://www.cossa.ru/blogs/aevrika/258842/
+1584735640; Ясно-понятно: как строить коммуникацию в B2B; https://www.cossa.ru/trends/259162/
+1584735640; Ланч-тайм 251: краткий перевод свежих статей о digital; https://www.cossa.ru/trends/258141/
+1584735640; «Детское» приложение Likee и взрослые деньги: как блогер с 10 млн подписчиков зарабатывает в сервисе коротких видеороликов; https://www.cossa.ru/trends/258658/
+1584735640; Гадалки массово идут в интернет, мелкий екоммерс — в маркетплейсы, у Aliexpress нулевая комиссия для новых продавцов: круглый стол; https://roem.ru/20-03-2020/281600/gadalki-massovo-idut-v-internet-melkij-ekommers-v-marketplejsy-u-aliexpress-nulevaya-komissiya-dlya-novyh-prodavcov-kruglyj-stol/
+1584735641; Wildberries «своевременно» вышли на рынок авиабилетов, а «Победа» заявила о стерилизации самолётов; https://roem.ru/18-03-2020/281584/wildberries-perfect-timing/
+1584735641; Communigate Pro может после смерти Бутенко оказаться американским и быть исключен из реестра российского ПО; https://roem.ru/18-03-2020/281573/communigate-pro-reestr/
+1584735644; Путин потребовал обеспечить россиянам доступ к отечественным фильмам и разрешил дистанционную продажу лекарств; https://roem.ru/17-03-2020/281562/lekarstva-v-seti/
+1584735646; Яндекс успел разработать платформу полностью дистанционного школьного обучения к марту 2020; https://roem.ru/17-03-2020/281560/yandeks-uspel-razrabotat-platformu-polnostyu-distancionnogo-shkolnogo-obucheniya-k-martu-2020/
+1584735648; Модераторы TikTok понижают в рекомендациях некрасивых и бедных; https://roem.ru/17-03-2020/281557/tiktok-no-ugly/
+1584735649; Яндекс снимает сериалы по 25 млн за серию про сильных женщин, хороших политиков и telegram-расследования; https://roem.ru/13-03-2020/281529/yandeks-serial/
+1584735649; Почта России тестирует доставку посылок по номеру телефона — без адреса и ФИО; https://roem.ru/12-03-2020/281520/pochta-rossii-noaddress/
+1584735649; Создатель платформы для торговли крадеными данными с трудом вырвался в США, где и был арестован ФБР; https://roem.ru/12-03-2020/281511/zhuk-olen/
+1584735650; Николай Евдокимов игнорирует требования SEC выплатить $16 млн, команда Дурова нашла против SEC  легальный прецедент; https://roem.ru/11-03-2020/281507/a-40-tak-mozhno-bylo/
+1584735650; Spotify третий раз попробует запуститься в России, но заранее экономит на офисе; https://roem.ru/10-03-2020/281505/spotifai-nu-davai/
+1584735650; «Мастерхост» договорился с дата-центром, омбудсмен предложил защитить клиентов от разборок хостингов; https://roem.ru/06-03-2020/281494/masterhost-jivi/
+1584735650; Google частично зацензурировал коронавирус в Play Store; https://roem.ru/05-03-2020/281484/google-antivirus/
+1584735651; ВКонтакте автоматически расшифрует голосовые сообщения и сделает доступными для поиска; https://roem.ru/04-03-2020/281455/fck-voice/
+1584735651; Яндекс ампутировал «Ауру»: ИИ-соцсеть ушла на отдельное юрлицо и собирается стать частично платной; https://roem.ru/03-03-2020/281440/aura-top/1584774109; «Ситимобил» вложил в «Ведомости» открытки с поздравлениями в честь дня таксиста — их нужно передать; https://vc.ru/marketing/113811-sitimobil-vlozhil-v-vedomosti-otkrytki-s-pozdravleniyami-v-chest-dnya-taksista-ih-nuzhno-peredat-voditelyam
+1584774190; «Ситимобил» вложил в «Ведомости» открытки с поздравлениями в честь дня таксиста — их нужно передать; https://vc.ru/marketing/113811-sitimobil-vlozhil-v-vedomosti-otkrytki-s-pozdravleniyami-v-chest-dnya-taksista-ih-nuzhno-peredat-voditelyam
+1584774192; Новость без заголовка; https://www.cossa.ru/trends/260367/
+1584774194; Новость без заголовка; https://www.cossa.ru/trends/260233/
+1584774195; Как заработать на успехе фильма «Паразиты» и популярности K-POP: перспективы рынка K-Beauty в России; https://www.cossa.ru/trends/259119/
+1584774197; Яндекс ампутировал «Ауру»: ИИ-соцсеть ушла на отдельное юрлицо и собирается стать частично платной; https://roem.ru/03-03-2020/281440/aura-top/
+1584774199; Кейс: как автоматические отчёты экономят около 20 человекочасов в месяц в Banki.ru; https://www.cossa.ru/cases/258939/
+1584774200; Контекст для доставки суши: как мы добились заказа за 4 рубля в перегретой тематике; https://www.cossa.ru/cases/259402/
+1584774202; Отчаянно красивый Джедайст #47; https://www.cossa.ru/trends/258850/
+1584774203; Незнающие всезнайки: как интернет-сервисы сделали вид, что они ничего не знают о перемещении своих пользователей; https://roem.ru/19-03-2020/281590/helpp/
+1584774205; РИФ+КИБ перенесли из апреля на сентябрь и частично — из «Далей» в интернет; https://roem.ru/13-03-2020/281538/rif-kib-perenesli-iz-aprelya-na-sentyabr-i-chastichno-iz-dalej-v-internet/
+1584774208; О проблемах пространственно-временного континуума в России на примере торговли обувью; https://roem.ru/04-03-2020/281446/prostranstvo-i-vremya/
+1584774213; Иван Макаров, Юлия Сапронова: Как журналистам РБК прививали любовь к диджиталу; https://roem.ru/03-02-2020/280965/makarov-rbc/
+1584774220; Вячеслав Макаров (Wargaming) создаст партию для айтишников в кооперации с сотрудником Яндекс.Денег, бывшим продюсером ЖЖ и olegart’ом; https://roem.ru/10-01-2020/281226/blockchain-party/1584817572; Большая ошибка Under Armour: бренд зациклился на профессиональных спортсменах и забыл об остальных; https://vc.ru/trade/113973-bolshaya-oshibka-under-armour-brend-zaciklilsya-na-professionalnyh-sportsmenah-i-zabyl-ob-ostalnyh-klientah
+1584817573; Google My Business временно приостанавливает работу с отзывами; https://vc.ru/seo/114074-google-my-business-vremenno-priostanavlivaet-rabotu-s-otzyvami
+1584817573; ✉ Что почитать на карантине; https://www.cossa.ru/news/260417/
+1584817574; Как нарастить ссылочную массу и не попасть под фильтры поисковиков?; https://www.cossa.ru/blogs/artisan/260423/
+1584817575; Вячеслав Макаров (Wargaming) создаст партию для айтишников в кооперации с сотрудником Яндекс.Денег, бывшим продюсером ЖЖ и olegart’ом; https://roem.ru/10-01-2020/281226/blockchain-party/
+1584817580; ВКонтакте зарезал трафик на Яндекс.Музыку; https://roem.ru/12-11-2019/280773/vk-vs-ya-music/
+1584817581; Путин предлагал использовать «Большую российскую энциклопедию» вместо Википедии в ответ на вопрос про её использование школьниками; https://roem.ru/06-11-2019/280709/wiki-putin/
+1584817585; Сторонние сервисы, которые Apple предустанавливала на iOS: YouTube, Яндекс, Карты, Twitter, Facebook, FeliCa, Baidu; https://roem.ru/06-11-2019/280694/ios-third-apps-preinstalled/
+1584817587; Как сотрудники «Почты» хакнули алгоритм оценки качества работы отделений через приложение; https://roem.ru/24-10-2019/280422/pochta-wins/
+1584817588; Игорь Ашманов захотел поговорить о сегодняшней фазе уничтожения Рунета ☦; https://roem.ru/24-10-2019/280382/ashmanov-runet-gibnet-silno/
+1584817593; Forbes US рассказал про ажиотажный спрос на российские акции в Америке; https://roem.ru/23-10-2019/280335/forbes-us-russia-rocks/
+1584817595; Банковские карты Тинькова не оказались лучшими по формальным критериям; https://roem.ru/23-10-2019/280276/frank-rg-pishet/
+1584817597; Тиньков поприветствовал неудачи Gram/Ton Дуровых, WeWork и Uber: «пирамидам Понци конец!»; https://roem.ru/17-10-2019/280041/smoothie-konets/
+1584817602; Большая ошибка Under Armour: бренд зациклился на профессиональных спортсменах и забыл об остальных; https://vc.ru/tradeddd/113975-bolshaya-oshibka-under-armour-brend-zaciklilsya-na-professionalnyh-sportsmenah-i-zabyl-ob-ostalnyh-klientah
+1584818022; Большая ошибка Under Armour: бренд зациклился на профессиональных спортсменах и забыл об остальных; https://vc.ru/trade/113973-bolshaya-oshibka-under-armour-brend-zaciklilsya-na-professionalnyh-sportsmenah-i-zabyl-ob-ostalnyh-klientah
+1584824767; Центробанк обновил дизайн; https://vc.ru/design/114135-centrobank-obnovil-dizayn-sayta
+1584824767; Рейтинг факторов E-A-T в Google, что больше всего сказывается на ранжировании в YMYL-тематиках?; https://tools.pixelplus.ru/news/eat-faktory-v-google
+1584824768; 15 быстрых советов для улучшения контент-стратегии и увеличения трафика; https://tools.pixelplus.ru/news/content-strategy
+1584824769; Новые глобальные настройки системы: стартовый экран, кодировка и регион по умолчанию; https://tools.pixelplus.ru/news/ start-screen-settings
+1584824770; HARD SEO WEEK 3.0: мастер-класс от Дмитрия Севальнева и команды «Пиксель Плюс»; https://tools.pixelplus.ru/news/hard-seo-week-3
+1584824770; Кто доверяет результатам поиска и как Google борется с дезинформацией?; https://tools.pixelplus.ru/news/kachestvo-i-dezinformaciya-v-google
+1584824771; Правильный подход к проведению SEO-аудитов: SP2-принципы, облегчающие работу и ведущие к росту проекта; https://tools.pixelplus.ru/news/effektivnyy-seo-audit
+1584824771; Повышаем CTR, используя микроразметку: от хлебных крошек до расширенных сниппетов; https://tools.pixelplus.ru/news/mirokrazmetka-schema
+1584824772; Удобный и быстрый импорт запросов в Проекты: CSV или Excel с указанием групп и продвигаемых URL; https://tools.pixelplus.ru/news/import-zaprosov
+1584824772; Как детально отслеживать динамику поискового трафика в Проектах: по устройствам, регионам и поисковым системам; https://tools.pixelplus.ru/news/dinamika-poiskovogo-trafika
+1584824773; Маркетинговая стратегия 2020: инсайты и KPI, о которых важно знать; https://tools.pixelplus.ru/news/marketingovaya-strategiya-2020
+1584824774; SEO кроется в деталях: 4 удобных нововведения в Проектах для детализации аналитики; https://tools.pixelplus.ru/news/analitika-v-detalyah
+1584824774; Ждали триал? Получили большее — Модуль ведения проектов теперь на всех PRO-тарифах; https://tools.pixelplus.ru/news/best-projects-for-pro
+1584824775; Ещё 4 нестандартных способа ускорить загрузку страниц сайта; https://tools.pixelplus.ru/news/site-speed-advices
+1584827518; Роспотребнадзор закрыл фитнес-центры, бассейны и аквапарки в; https://vc.ru/offline/114156-rospotrebnadzor-zakryl-fitnes-centry-basseyny-i-akvaparki-v-moskve
+1584827518; Яндекс запустил карту распространения коронавируса в России и в мире; https://www.seonews.ru/events/yandeks-zapustil-kartu-rasprostraneniya-koronavirusa-v-rossii-i-v-mire/
+1584827519; Технодайджест: нейроискусство и вакцина от коронавируса; https://www.seonews.ru/events/tekhnodaydzhest-neyroiskusstvo-i-vaktsina-ot-koronavirusa/
+1584827520; Google рассказал, почему сайт перестает индексироваться или теряет позиции; https://www.seonews.ru/events/google-rasskazal-pochemu-sayt-perestaet-indeksirovatsya-ili-teryaet-pozitsii/
+1584827521; Яндекс.Эфир открыл платформу видеоблогерам; https://www.seonews.ru/events/yandeks-efir-otkryl-platformu-videoblogeram/
+1584827522; Google Ads упростил подачу апелляций по объявлениям; https://www.seonews.ru/events/google-ads-uprostil-podachu-apellyatsiy-po-obyavleniyam/
+1584827522; Google начал поддерживать новые свойства разметки для мероприятий; https://www.seonews.ru/events/google-nachal-podderzhivat-novye-svoystva-razmetki-dlya-meropriyatiy/
+1584827523; Яндекс.Вебмастер начал открывать доступ к расширенной статистике по сайту; https://www.seonews.ru/events/yandeks-vebmaster-nachal-otkryvat-dostup-k-rasshirennoy-statistike-po-saytu/
+1584827524; Google ответил на вопросы вебмастеров по JavaScript; https://www.seonews.ru/events/google-otvetil-na-voprosy-vebmasterov-po-javascript/
+1584827524; Онлайн-конференция «SEO без воды»: подключайтесь к трансляции на SEOnews; https://www.seonews.ru/events/onlayn-konferentsiya-seo-bez-vody-podklyuchaytes-k-translyatsii-na-seonews/
+1584827525; Рекламный рынок России вырос только за счет интернета; https://www.seonews.ru/events/reklamnyy-rynok-rossii-vyros-tolko-za-schet-interneta/
+1584827526; Рейтинг факторов E-A-T в Google. Исследование «Пиксель Тулс»; https://www.seonews.ru/events/reyting-faktorov-e-a-t-v-google-issledovanie-piksel-tuls/
+1584827528; Google: не думайте, посчитаем ли мы контент качественным, заботьтесь о пользователях; https://www.seonews.ru/events/google-ne-dumayte-poschitaet-li-poisk-vash-kontent-kachestvennym-zabottes-o-polzovatelyakh/
+1584827529; Стоимость связи вырастет на 20%, если власти не компенсируют бесплатный доступ к сайтам; https://www.seonews.ru/events/stoimost-svyazi-vyrastet-na-20-esli-vlasti-ne-kompensiruyut-zatraty-na-besplatnyy-dostup-k-saytam/
+1584827530; Вы точно ничего не пропустили; https://www.seonews.ru/events/vy-tochno-nichego-ne-propustili-15-03-2020/
+1584827530; Технодайджест: технологии против коронавируса и необычный iPhone; https://www.seonews.ru/events/tekhnodaydzhest-tekhnologii-protiv-koronavirusa-i-neobychnyy-iphone/
+1584827531; Как падение рубля повлияет на digital-рынок: мнения экспертов и советы клиентам; https://www.seonews.ru/analytics/kak-padenie-rublya-povliyaet-na-digital-rynok-mneniya-ekspertov-i-sovety-klientam/
+1584827531; Как интернет-бренды помогают пережить карантин: полезные и бесплатные предложения; https://www.seonews.ru/analytics/kak-internet-brendy-pomogayut-perezhit-karantin-poleznye-i-besplatnye-predlozheniya/
+1584827532; Продающий контент. 5 базовых принципов подготовки; https://www.seonews.ru/analytics/prodayushchiy-kontent-5-bazovykh-printsipov-podgotovki-/
+1584827533; Как привлекать инвестиции в виноградники через таргет: минималистичное решение от eLama; https://www.seonews.ru/analytics/kak-privlekat-investitsii-v-vinogradniki-cherez-target-minimalistichnoe-reshenie-ot-elama/
+1584827534; Куда пойти учиться: интернет-маркетинг 2020 и VK Delta Day; https://www.seonews.ru/analytics/kuda-poyti-uchitsya-internet-marketing-2020-i-vk-delta-day/
+1584827534; Контекстная реклама не так дорога, как её... сливают; https://www.seonews.ru/analytics/kontekstnaya-reklama-ne-tak-doroga-kak-eye-slivayut/
+1584827535; Как лингвогенератор eLama помогает интернет-магазинам рекламировать товары в Яндекcе и Google; https://www.seonews.ru/analytics/kak-lingvogenerator-elama-pomogaet-internet-magazinam-reklamirovat-tovary-v-yandekce-i-google/
+1584827536; Куда пойти учиться: контент и битва за клиента; https://www.seonews.ru/analytics/kuda-poyti-uchitsya-kontent-i-bitva-za-klienta/
+1584827537; Кейс Hansa: как увеличить органический трафик в 1,5 раза; https://www.seonews.ru/analytics/keys-hansa-kak-uvelichit-organicheskiy-trafik-v-1-5-raza/
+1584827537; Как провести аудит контекстной рекламы, если вы ничего в этом не понимаете; https://www.seonews.ru/analytics/kak-provesti-audit-po-kontekstnoy-reklame-esli-vy-nichego-v-etom-ne-ponimaete/
+1584827538; Инструкция по запуску видеорекламы на YouTube; https://www.seonews.ru/analytics/instruktsiya-po-zapusku-videoreklamy-na-youtube/
+1584827539; Как удалить информацию о себе в интернете: 5 проверенных методов; https://www.seonews.ru/analytics/kak-udalit-informatsiyu-o-sebe-v-internete-5-proverennykh-metodov/
+1584827539; 5 главных отчетов Яндекс.Метрики для SEO-специалистов; https://www.seonews.ru/analytics/5-glavnykh-otchetov-yandeks-metriki-dlya-seo-spetsialistov/1584828840; Продать дороже свои услуги и найти клиентов за рубежом: советы; https://vc.ru/books/114081-prodat-dorozhe-svoi-uslugi-i-nayti-klientov-za-rubezhom-sovety-dizayneram
+1584828841; 5 главных отчетов Яндекс.Метрики для SEO-специалистов; https://www.seonews.ru/analytics/5-glavnykh-otchetov-yandeks-metriki-dlya-seo-spetsialistov/
+1584828842; Чек-лист: 5 шагов к масштабированию контент-маркетинга без потери качества; https://www.seonews.ru/analytics/chek-list-5-shagov-k-masshtabirovaniyu-kontent-marketinga-bez-poteri-kachestva/
+1584828842; Руководство по построению эффективных ссылочных стратегий; https://www.seonews.ru/analytics/rukovodstvo-po-postroeniyu-effektivnykh-ssylochnykh-strategiy/

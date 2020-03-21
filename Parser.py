@@ -26,6 +26,10 @@ def get_html(url):
     file_news += Parser_serch.get_html_webmya('https://webmaster.yandex.ru/blog/')
     file_news += Parser_serch.get_html_cossa('https://www.cossa.ru/')
     file_news += Parser_serch.get_html_roem('https://roem.ru/')
+    file_news += Parser_serch.get_html_pixel('https://tools.pixelplus.ru/news/')
+    file_news += Parser_serch.get_html_seonews('https://www.seonews.ru/events/')
+    file_news += Parser_serch.get_html_seonews('https://www.seonews.ru/analytics/')
+    #file_news += Parser_serch.get_html_seonews('https://ru.megaindex.com/blog/')
 
     return check_url(file_news)
 
@@ -37,7 +41,7 @@ def write_url(url):
             if 3 - r == 1:
                 nf.write(str(i))
             else:
-                nf.write(str(i) + ', ')
+                nf.write(str(i) + '; ')
                 r += 1
         nf.write('\n')
     return
@@ -47,7 +51,7 @@ def url_open_file():
         url_list = []
         for line in nf.readlines():
             d = line.replace('\n', '')
-            d = d.split(', ')
+            d = d.split('; ')
             url_list.append(d[2])
 
     return url_list
@@ -55,7 +59,15 @@ def url_open_file():
 def check_url(a):
     for url in a:
         if url not in url_open_file():
-            write_url(url)
+            if url.find('vc.ru') != -1: #проверка похожих УРЛ на ВС
+                m = ''
+                for i in url_open_file():
+                    m += i
+                if url[url.rfind('/')+1:url.rfind('/')+7] not in m:
+                    write_url(url)
+            else:
+                write_url(url)
+    return
 
 def check_h1(url):
     headers = {
@@ -68,14 +80,18 @@ def check_h1(url):
     k = h1_title.find('>')
     l = h1_title.find('<', 2)
 
-    return h1_title[k+1:l].strip()
+    if h1_title[k+1:l].strip() == 'Non':
+        send = 'Новость без заголовка'
+        return send
+    else:
+        return h1_title[k+1:l].strip()
 
 def url_open_main():
     with open('news.txt', 'r') as nf:
         url_list = []
         for line in nf.readlines():
             d = line.replace('\n', '')
-            d = d.split(', ')
+            d = d.split('; ')
             url_list.append(d)
     return url_list
 
