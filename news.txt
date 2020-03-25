@@ -399,5 +399,3 @@
 1585165860; Яндекс.Директ позволил добавлять карточку организации в объявления; https://www.seonews.ru/events/yandeks-direkt-pozvolil-dobavlyat-kartochku-organizatsii-v-obyavleniya/
 1585165862; Мишустин освободил Жарова от должности главы Роскомнадзора; https://www.seonews.ru/events/mishustin-osvobodil-zharova-ot-dolzhnosti-glavy-roskomnadzora/
 1585173162; «Яндекс» попросил своих сотрудников поработать во время «каникул» с 30 марта по 5; https://vc.ru/offline/115186-yandeks-poprosil-svoih-sotrudnikov-porabotat-vo-vremya-kanikul-s-30-marta-po-5-aprelya
-1585173164; Audi и Volkswagen временно изменили свои логотипы — так они призывают соблюдать дистанцию из-за; https://vc.ru/marketing/115167-audi-i-volkswagen-vremenno-izmenili-svoi-logotipy-tak-oni-prizyvayut-soblyudat-distanciyu-iz-za-koronavirusa
-1585174024; Apple выпустила iPadOS 13.4 с полной поддержкой мыши и жестов; https://vc.ru/tech/115180-apple-vypustila-ipados-13-4-s-polnoy-podderzhkoy-myshi-i-zhestov-trekpada
