@@ -62,7 +62,6 @@ def get_html_cossa(url):
 def get_html_roem(url):
     file_news = []
 
-
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) Gecko/20100101 Firefox/45.0'
     }
@@ -73,7 +72,6 @@ def get_html_roem(url):
 
     for link in news_link:
         file_news.append(link.find('a').get('href'))
-
 
     return file_news
 
@@ -93,7 +91,6 @@ def get_html_pixel(url):
         link = str(link)
         if int(link[link.find('radius25">')+10:link.find('radius25">')+30][:link[link.find('radius25">')+10:link.find('radius25">')+30].rfind('</')][-4:]) >= 2020:
             file_news.append('https://tools.pixelplus.ru' + link[link.find('<a href="')+9:link.find('</a>')][:link[link.find('<a href="')+9:link.find('</a>')].rfind('">')])
-
 
     return file_news
 
@@ -125,6 +122,5 @@ def get_html_megaindex(url):
 
     for link in news_link:
         file_news.append('https://ru.megaindex.com' + link.find('a').get('href'))
-
 
     return file_news

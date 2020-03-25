@@ -18,5 +18,13 @@ def start_message(message):
         t_now = int(time.time())
         #time.sleep(600)
 
-#start_message('https://vc.ru/')
+try:
+    with open('text.txt', 'r') as nr:
+        print(2)
+
+except FileNotFoundError:
+    with open('text.txt', 'w') as nr:
+        print(1)
+
+
 
