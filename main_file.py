@@ -20,7 +20,7 @@ def start_message(message):
                     for id in Parser.find_user_id():
                         bot.send_message(str(id), new[1] + '\n' + new[2])
             t_now = int(time.time())
-            time.sleep(10)
+            time.sleep(600)
 
 @bot.message_handler(commands=['infoid'])
 def start_message(message):
