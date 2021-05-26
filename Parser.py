@@ -3,13 +3,13 @@ import requests
 import time
 import Parser_serch
 
-def get_html(url):
+def get_html(url): #Получаем данные о новостях (ссылка и заголвоок)
     file_news = []
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) Gecko/20100101 Firefox/45.0'
     }
     r = requests.get(url, headers=headers)  # Получаем метод Response
-    r.encoding = 'utf8'  # У меня были проблемы с кодировкой, я задал в ручную
+    r.encoding = 'utf8'  # Кодировку указал вручную, т.к. были проблемы
     soup = BeautifulSoup(r.text, 'html.parser')
     news_link = soup.find_all('a', {'class': 'content-feed__link'})
 
@@ -26,7 +26,7 @@ def get_html(url):
     # file_news += Parser_serch.get_html_seonews('https://ru.megaindex.com/blog/')
     return check_url(file_news)
 
-def write_url(url):
+def write_url(url):#Запись новых ссылок в файл
     with open('news.txt', 'a') as nf:
         new_list = [int(time.time()), check_h1(url), url]
         r = 0
@@ -39,7 +39,7 @@ def write_url(url):
         nf.write('\n')
     return
 
-def url_open_file():
+def url_open_file(): # Вывод всех ссылок на новости
     with open('news.txt', 'r') as nf:
         url_list = []
         for line in nf.readlines():
@@ -49,10 +49,10 @@ def url_open_file():
 
     return url_list
 
-def check_url(a):
+def check_url(a):# проверка похожих УРЛ на VC
     for url in a:
         if url not in url_open_file():
-            if url.find('vc.ru') != -1:  # проверка похожих УРЛ на ВС
+            if url.find('vc.ru') != -1:
                 m = ''
                 for i in url_open_file():
                     m += i
@@ -62,7 +62,7 @@ def check_url(a):
                 write_url(url)
     return
 
-def check_h1(url):
+def check_h1(url): #Функция проверки заголовокв новости
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) Gecko/20100101 Firefox/45.0'
     }
@@ -79,7 +79,7 @@ def check_h1(url):
     else:
         return h1_title[k + 1:l].strip()
 
-def url_open_main():
+def url_open_main():#Функция вывода всех всех ссылок на новости
     with open('news.txt', 'r') as nf:
         url_list = []
         for line in nf.readlines():
@@ -88,7 +88,7 @@ def url_open_main():
             url_list.append(d)
     return url_list
 
-def find_user_id():
+def find_user_id():#Функция проверяет подписан ли пользователь на новоти
     with open('id_user.txt', 'r') as nf:
         url_list = []
         for line in nf.readlines():
@@ -96,7 +96,7 @@ def find_user_id():
             url_list = d.split(', ')
     return url_list
 
-def add_user_id(list_user, id_user):
+def add_user_id(list_user, id_user): #Функция добавления пользователя к подписке
     list_user.append(id_user)
     with open('id_user.txt', 'w') as nf:
         for i in list_user:
@@ -106,7 +106,7 @@ def add_user_id(list_user, id_user):
                 nf.write(str(i) + ', ')
     return
 
-def del_id(id_user):
+def del_id(id_user): #Функция удалени я пользователя из подписки
     user_list = find_user_id()
     user_list.remove(id_user)
     with open('id_user.txt', 'w') as nf:

@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-def get_html_serch(url):
+def get_html_serch(url): #Получаем новые ссылки на ности со страниц сайта
     file_news = []
 
     headers = {
@@ -17,7 +17,7 @@ def get_html_serch(url):
 
     return file_news
 
-def get_html_webmya(url):
+def get_html_webmya(url):#Получаем новые ссылки на ности со страниц сайта
     file_news = []
 
     headers = {
@@ -33,7 +33,7 @@ def get_html_webmya(url):
 
     return file_news
 
-def get_html_cossa(url):
+def get_html_cossa(url):#Получаем новые ссылки на ности со страниц сайта
     file_news = []
 
     headers = {
@@ -59,7 +59,7 @@ def get_html_cossa(url):
 
     return file_news
 
-def get_html_roem(url):
+def get_html_roem(url):#Получаем новые ссылки на ности со страниц сайта
     file_news = []
 
     headers = {
@@ -75,7 +75,7 @@ def get_html_roem(url):
 
     return file_news
 
-def get_html_pixel(url):
+def get_html_pixel(url):#Получаем новые ссылки на ности со страниц сайта
     file_news = []
 
 
@@ -94,7 +94,7 @@ def get_html_pixel(url):
 
     return file_news
 
-def get_html_seonews(url):
+def get_html_seonews(url):#Получаем новые ссылки на ности со страниц сайта
     file_news = []
 
     headers = {
@@ -110,7 +110,7 @@ def get_html_seonews(url):
 
     return file_news
 
-def get_html_megaindex(url):
+def get_html_megaindex(url):#Получаем новые ссылки на ности со страниц сайта
     file_news = []
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) Gecko/20100101 Firefox/45.0'
